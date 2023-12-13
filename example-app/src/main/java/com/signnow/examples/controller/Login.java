@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import javax.inject.Provider;
+import jakarta.inject.Provider;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.Collectors;
